@@ -1,1 +1,1 @@
-This simple project is demonstrating how to change the iamge with a simple click
+This simple project is demonstrating how to change the image with a simple click
